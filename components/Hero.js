@@ -36,10 +36,10 @@ const Hero = () => {
 
       <div className="flex  space-x-3 justify-center mt-8">
         <button onClick={search} className="btn">
-          Google Search
+          {"Google Search"}
         </button>
         <button onClick={search} className="btn">
-          I'm Feeling Lucky
+          {"I'm Feeling Lucky"}
         </button>
       </div>
     </form>
