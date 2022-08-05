@@ -48,7 +48,7 @@ const SearchHeader = () => {
           <img
             className="  h-6 cursor-pointer mr-4 hidden sm:inline-flex border-l-2 pl-3"
             loading="lazy"
-            src="/Microphone.png"
+            src="/images/microphone.png"
             alt="profile"
           />
           <SearchIcon className="h-7 mr-3 text-blue-500" />

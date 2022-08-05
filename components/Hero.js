@@ -17,7 +17,12 @@ const Hero = () => {
 
   return (
     <form className="flex flex-col items-center w-3/4 justify-center flex-grow ">
-      <Image src="/google-logo.png" width={300} height={170} />
+      <Image
+        src="/google-logo.png"
+        width={300}
+        height={170}
+        alt="google-logo"
+      />
       <div className="flex w-full  hover:shadow-lg focus-within:shadow-lg max-w-md rounded-full border border-gray-200 px-5 py-3 items-center sm:max-w-xl lg:max-w-2xl">
         <SearchIcon className="h-5 mr-3 text-gray-500" />
         <input
@@ -25,11 +30,11 @@ const Hero = () => {
           type="text"
           className="flex-grow focus:outline-none  "
         />
-        {/* <MicrophoneIcon className="h-5" /> */}
+
         <img
           className=" h-6 cursor-pointer transition duration-150 transform hover:scale-110"
           loading="lazy"
-          src="/Microphone.png"
+          src="/images/microphone.png"
           alt="profile"
         />
       </div>
