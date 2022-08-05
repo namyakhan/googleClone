@@ -29,7 +29,7 @@ const SearchHeader = () => {
       <div className="flex w-full p-6 items-center">
         <Image
           alt="google-logo"
-          src="/images/google-logo.png"
+          src="/google-logo.png"
           width={150}
           height={80}
           className="cursor-pointer"
