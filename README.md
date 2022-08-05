@@ -1,34 +1,30 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google Clone
 
-## Getting Started
+A fully functional Google clone built using Next.js & Tailwind CSS
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## 🔑 Key features
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+👉 fully responsive
 
-To learn more about Next.js, take a look at the following resources:
+👉 Server Side Rendering
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+👉 Pagination
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+![Screenshot (277)](https://user-images.githubusercontent.com/82830866/183136538-8b2ac7db-86e2-459e-8033-a3918a46df25.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!-- ![Screenshot (278)](https://user-images.githubusercontent.com/82830866/183136686-3bad57ff-fbd9-4131-b477-a3c2581808e8.png)
+
+![Screenshot (279)](https://user-images.githubusercontent.com/82830866/183136697-affc83fa-48ee-4581-97e5-ac46489636bd.png)
+
+![Screenshot (280)](https://user-images.githubusercontent.com/82830866/183136702-d63651e9-aed7-4a47-b081-21e54f47ceef.png)
+ -->
+
+## Live Demo
+[Google Clone](https://google-clone-cj0mqb5iy-namyakhan.vercel.app/)
