@@ -12,16 +12,16 @@ const SearchResults = ({ results }) => {
       {results.items?.map((result) => (
         <div key={result.link} className="max-w-xl mb-8">
           <div className="group">
-            <a href={result.link} className="text-sml">
+            <a href={result.link} className="text-md font-">
               {result.formattedUrl}
             </a>
             <a href={result.link}>
-              <h2 className="truncate text-xl text-blue-800 font-medium group-hover:underline">
+              <h2 className="truncate text-2xl text-blue-800 font-medium group-hover:underline">
                 {result.title}
               </h2>
             </a>
           </div>
-          <p className="line-clamp-2">{result.snippet}</p>
+          <p className="line-clamp-2 text-gray-600 font-normal">{result.snippet}</p>
         </div>
       ))}
 
