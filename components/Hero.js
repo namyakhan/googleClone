@@ -18,7 +18,7 @@ const Hero = () => {
   return (
     <form className="flex flex-col items-center w-3/4 justify-center flex-grow ">
       <Image
-        src="/google-logo.png"
+        src="/images/google-logo.png"
         width={300}
         height={170}
         alt="google-logo"
